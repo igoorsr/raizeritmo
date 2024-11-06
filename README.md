@@ -12,7 +12,7 @@ Raiz e Ritmo é um aplicativo móvel educacional desenvolvido para explorar e ap
 - Instalação e Uso
 - Estrutura do Projeto
 - Licença
-- 
+
 ### Visão Geral
 
 O Raiz e Ritmo é um aplicativo mobile que ensina fundamentos musicais de forma interativa, com recursos de áudio, listas de músicas, pacotes educativos, e um perfil de usuário. O app conta com uma navegação por abas, possibilitando ao usuário explorar diversas funcionalidades de forma intuitiva.
