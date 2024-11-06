@@ -1,6 +1,6 @@
 # RAIZ & RITMO
 
-Raiz e Ritmo é um aplicativo móvel educacional desenvolvido para explorar e aprender sobre música e ritmo. O aplicativo foi criado utilizando React Native no frontend e Node.js no backend, proporcionando uma experiência interativa e educativa para os usuários.
+Raiz e Ritmo é um aplicativo móvel que simula um sistema de aluguel de músicas, onde os usuários podem explorar músicas, pacotes e gerenciar sua lista de desejos. O aplicativo foi desenvolvido com o objetivo de aprendizado de desenvolvimento mobile, utilizando React Native para o frontend.
 
 - Link do repositório: [TEF STYLE - REPOSITÓRIO](https://github.com/igoorsr/raizeritmo)
 - App para Fins Educacionais: O aplicativo é um projeto desenvolvido para aprendizado e demonstração de conceitos de desenvolvimento mobile.
